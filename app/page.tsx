@@ -12,7 +12,8 @@ export default function Home() {
           height={20}
           priority
         />
-        <p>TEST</p>
+        <p>TEST </p>
+        <button>click me</button>
 
       </main>
     </div>
